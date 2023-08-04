@@ -1,9 +1,21 @@
-.menu div {
-    display: inline;
-    padding: 3em;
-    border: 30px; 
-    border-color: black;
-    margin: 70px;
+h1{
     text-align: center;
-    text-decoration:solid;
+
+}
+
+
+
+
+div ,flex-container {
+   display: flex;
+   flex: 1;
+   flex-direction: row;
+   justify-content: center;
+   
+   
+   
+}
+
+.flex-container{
+    font-family: 'Courier New', Courier, monospace;
 }
