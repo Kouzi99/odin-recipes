@@ -1,0 +1,9 @@
+.menu div {
+    display: inline;
+    padding: 3em;
+    border: 30px; 
+    border-color: black;
+    margin: 70px;
+    text-align: center;
+    text-decoration:solid;
+}
